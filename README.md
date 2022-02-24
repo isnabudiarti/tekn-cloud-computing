@@ -1,2 +1,2 @@
 # tekn-cloud-computing
-Hasil praktikum
+Hasil Praktikum Teknologi Cloud Computing
