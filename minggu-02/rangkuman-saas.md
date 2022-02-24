@@ -1,3 +1,5 @@
+Latihan 
+
 Rangkuman 
 1.	Perbedaan antara IaaS, PaaS, dan SaaS
 SaaS (Software as a Service)  menjalankan aplikasi di cloud public, melalui internet. Aplikasi dikelola oleh penyedia layanan contohnya SalesForce, Microsoft (Office 365), Oracle, Google (Google Apps). 
@@ -45,3 +47,8 @@ Menggunakan database berorientasi dokumen seperti MongoDB.
 Sistem antrian pesan adalah protokol komunikasi asinkron, memungkinkan pengirim dan penerima pesan tidak berinteraksi pada waktu yang sama (dikenal sebagai teknologi Message Queuing (MSMQ)). 
 RabbitMQ adalah sistem antrian open source yang berjalan di semua sistem operasi utama. 
 AWS memungkinkan untuk menghosting dan menjalankan aplikasi web serta melakukan pekerjaan batch besar-besaran dengan kinerja tinggi. Dengan Elastic Compute Cloud (EC2), AWS menyediakan server virtual yang dapat diskalakan untuk setiap bisnis. Amazon EC2 harus dimiliki karena menyediaka kapasitas komputasi yang dapat diubah ukurannya. 
+
+
+Contoh layanan SaaS yaitu :
+1.	Canva (kanvas)
+2.	Kendur (Slack)
